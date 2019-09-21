@@ -1,9 +1,0 @@
-entities\Customer_.class
-entities\Order_.class
-entities\Customer.class
-entities\OrderLine.class
-entities\ItemType_.class
-facades\CustomerFacade.class
-entities\ItemType.class
-entities\Order.class
-entities\OrderLine_.class

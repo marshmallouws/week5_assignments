@@ -1,7 +1,0 @@
-facades\StudentFacade.class
-entities\Semester_.class
-entities\Teacher_.class
-entities\Student_.class
-entities\Teacher.class
-entities\Semester.class
-entities\Student.class
